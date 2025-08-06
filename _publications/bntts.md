@@ -8,7 +8,7 @@ excerpt: 'Text-to-speech (TTS) synthesis is a critical area in speech and langua
 # venue: 'International Journal of Speech Technology'
 venue: 'Under Review'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/btts_speech_technology anonymized-2.pdf'
+# paperurl: 'http://academicpages.github.io/files/btts_speech_technology anonymized-2.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
