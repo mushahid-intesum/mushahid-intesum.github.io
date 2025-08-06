@@ -22,10 +22,10 @@ repository               : "mushahid-intesum/mushahid-intesum.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof.jpg"
   name             : "Mushahid Intesum"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Prospective PhD candidate, efficient deep learning enthusiast"
   location         : "Dhaka, Bangladesh"
   employer         : "University of Dhaka"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : mushahid-intesum
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -61,7 +61,8 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : mushahid-intesum-2746921b6
+  dev.to           : skondho_kata
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
