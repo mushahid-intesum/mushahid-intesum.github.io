@@ -2,6 +2,7 @@
 title: "STFT-GradTTS: A Robust, Diffusion-based Speech Synthesis System with iSTFT decoder for Bangla"
 collection: publications
 category: manuscripts
+authors: "<strong>Mushahid Intesum</strong>, Abdullah Ibne Masud, Md Rezaul Karim, Md Ashraful Islam"
 # permalink: /publication/bntts
 excerpt: 'This project involved building a large Text to Speech dataset and model for Bangla, which was funded by the University Grants Commission. The paper is current under review'
 # date: 2009-10-01
