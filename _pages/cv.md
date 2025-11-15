@@ -55,15 +55,20 @@ Work experience
   * Data Engineer
   * Worked as a Data Engineer at One Data Labs which is based in Serbia. Key tasks included scraping raw data from sources, creating a pipeline for data collection, cleaning data and analysing the data to find interesting insights for product development
 
-* June 2021 - November 2021: Arbree Limited
-  * Software Engineer Intern
-  * Worked as a Software Engineer Intern where I worked with Django and Express.js. Worked on Ezeedrop and Arbree Attendance Solutions.
-
 Non-Academic Service
 ======
 * January 2023 – December 2023: CSEDU Students' Club, General Secretary
+    * Part of the management committee of Code Samurai 2024
+    * Arranged Indoor Sports Week and Cultural Day
+    * Arranged DuCTF, an Intra-Department Capture the Flag competition
+    * Part of the management group that arranged 'Eid Ananda', a charity event that provided food to 100 families during Ramadan
 * January 2022 – December 2022: CSEDU Students' Club, Secretary (Sports)
+    * Arranged Indoor Sports Week and Cultural Day
+    * Arranged Intra-Department Football Competition
+    * Took part in arranging Dean's Award in 2022
 * January 2020 – December 2021: CSEDU Students' Club, Execuitive Member
+    * Part of the management committee of Code Samurai 2019
+    * Arranged Indoor Sports Weeks and Cultural Day
 
 Miscellaneous
 ======
