@@ -18,12 +18,12 @@ Education
 
 Publications
 ======
-  * Mushahid Intesum, Abdullah Ibne Masud, Md Rezaul Karim, and Md Ashraful Islam (n.d.). “STFT-GradTTS: A Robust, Diffusion-based Speech Synthesis System with iSTFT decoder for Bangla, Under Review”. In: Under Review ()
+  * Mushahid Intesum, Abdullah Ibne Masud, Md Rezaul Karim, and Md Ashraful Islam (n.d.). “STFT-GradTTS: A Robust, Diffusion-based Speech Synthesis System with iSTFT decoder for Bangla,”. In: International Journal of Speech Technology (2025)
 
 Projects
 ======
 * Speech Synthesizer for Bangla
-  * Funded by the University Grants Commission, we are working on building a novel Speech Synthesizer made specifically for Bangla. Our project aims to tackle the data scarcity problem of Bangla by preparing a large, 20-hour-long, single-speaker audio dataset that is collected in a studio quality environment. We also proposed STFT-GradTTS, a novel diffusion based TTS model with multi-stream iSTFT decoders and Stochastic Duration Predictor. The paper is under review
+  * Funded by the University Grants Commission, we are working on building a novel Speech Synthesizer made specifically for Bangla. Our project aims to tackle the data scarcity problem of Bangla by preparing a large, 20-hour-long, single-speaker audio dataset that is collected in a studio quality environment. We also proposed STFT-GradTTS, a novel diffusion based TTS model with multi-stream iSTFT decoders and Stochastic Duration Predictor. The paper has been published at the International Journal of Speech Technology
 * Llava Efficiency Experiments
   * An independent research project where I attemtpted to investigate post-training pruning of attention tokens in the vision-tower and cross-modal fusion towers of Llava 7B model to find possible opportunities for post training optimization. The code was tested on 2x T4 GPU option of Kaggle.
 * Bird Call Identifier Using ESP32

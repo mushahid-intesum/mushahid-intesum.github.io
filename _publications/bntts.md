@@ -4,12 +4,12 @@ collection: publications
 category: manuscripts
 authors: "<strong>Mushahid Intesum</strong>, Abdullah Ibne Masud, Md Rezaul Karim, Md Ashraful Islam"
 # permalink: /publication/bntts
-excerpt: 'Funded by the University Grants Commission, we are worked on building a novel Speech Synthesizer made specifically for Bangla. Our project aims to tackle the data scarcity problem of Bangla by preparing a large, 20-hour-long, single-speaker audio dataset that is collected in a studio quality environment. We also proposed STFT-GradTTS, a novel diffusion based TTS model with multi-stream iSTFT decoders and Stochastic Duration Predictor. The paper is under review.'
+excerpt: 'Funded by the University Grants Commission, we are worked on building a novel Speech Synthesizer made specifically for Bangla. Our project aims to tackle the data scarcity problem of Bangla by preparing a large, 20-hour-long, single-speaker audio dataset that is collected in a studio quality environment. We also proposed STFT-GradTTS, a novel diffusion based TTS model with multi-stream iSTFT decoders and Stochastic Duration Predictor. The paper is published at the International Journal of Speech Technology.'
 # date: 2009-10-01
-# venue: 'International Journal of Speech Technology'
-venue: 'Under Review'
+venue: 'International Journal of Speech Technology'
+# venue: 'Under Review'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'http://academicpages.github.io/files/btts_speech_technology anonymized-2.pdf'
+paperurl: 'https://rdcu.be/eYi8z'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 # githuburl: 'https://github.com/farhanishmam/Penta-Exist-2024'
